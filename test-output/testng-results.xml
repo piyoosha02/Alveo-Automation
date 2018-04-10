@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38212" started-at="2018-03-26T09:38:44Z" finished-at="2018-03-26T09:39:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38212" started-at="2018-03-26T09:38:44Z" finished-at="2018-03-26T09:39:23Z">
+      <class name="com.invigorate.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="25162" started-at="2018-03-26T15:08:44Z" finished-at="2018-03-26T15:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="alveoLogoImageTest()[pri:1, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="alveoLogoImageTest" duration-ms="93" started-at="2018-03-26T15:09:10Z" finished-at="2018-03-26T15:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alveoLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="1572" started-at="2018-03-26T15:09:10Z" finished-at="2018-03-26T15:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="setUp" is-config="true" duration-ms="10139" started-at="2018-03-26T15:09:11Z" finished-at="2018-03-26T15:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="loginTest" duration-ms="592" started-at="2018-03-26T15:09:21Z" finished-at="2018-03-26T15:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.invigorate.testCases.LoginPageTest@6a41eaa2]" name="tearDown" is-config="true" duration-ms="609" started-at="2018-03-26T15:09:22Z" finished-at="2018-03-26T15:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.invigorate.testCases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
